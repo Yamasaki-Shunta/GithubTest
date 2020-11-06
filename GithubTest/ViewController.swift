@@ -9,8 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    var Animal = "dog"
-    
+    var Animal1 = "dog"
+    var Animal2 = "cat"
     
     override func viewDidLoad() {
         super.viewDidLoad()
